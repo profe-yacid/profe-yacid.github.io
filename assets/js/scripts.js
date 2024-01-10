@@ -1,10 +1,7 @@
 // Reload page on back button
-count = 0;
   window.addEventListener('pageshow', function(event) {
     if (event.persisted) {
       window.location.reload();
-      count++;
-      console.log(count);
     }
   });
 
