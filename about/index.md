@@ -6,8 +6,8 @@ date: 2016-03-21
 comments: false
 ---
 {% capture images %}
-  {{ site.baseurl }}/assets/img/profile7.png
-	{{ site.baseurl }}/assets/img/profile-2.png
+  {{ site.baseurl }}/assets/img/profile2.jpg
+	{{ site.baseurl }}/assets/img/profile3.jpg
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 

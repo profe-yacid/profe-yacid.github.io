@@ -11,7 +11,7 @@ comments: false
 --- 
     
 {% capture images %}
-  {{ site.baseurl }}/assets/img/etv/etv11.png
+  {{ site.baseurl }}/assets/img/etv/etv.jpg
   {{ site.baseurl }}/assets/img/etv/etv-full.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}

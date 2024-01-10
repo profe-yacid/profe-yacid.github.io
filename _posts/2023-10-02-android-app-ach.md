@@ -11,7 +11,7 @@ comments: false
 --- 
     
 {% capture images %}
-  {{ site.baseurl }}/assets/img/ach/ach41.png
+  {{ site.baseurl }}/assets/img/ach/ach.jpg
   {{ site.baseurl }}/assets/img/ach/ach-full.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
