@@ -8,7 +8,7 @@
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
-						<p>{{ site.description }}</p>
+						<p>{{ site.description }} &#x1F60E;</p>	
 					</li>
 					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
 					{% if site.email %}<li>
@@ -85,13 +85,13 @@
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
-			<li>
+			<!--<li>
 				<a href="#">Posts</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 				</ul>
-			</li>
+			</li>-->
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}

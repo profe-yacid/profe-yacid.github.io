@@ -1,0 +1,70 @@
+.titulo{
+    font-size: 18px;
+    font-weight: bold;
+    color: indigo;
+}
+.mt{
+    margin-top: 10px;
+}
+.icon-skills{
+    height: 18px;
+    background-size: cover;
+    display: inline-block;
+    width: 18px;
+    background-repeat: no-repeat;
+}
+.icon-skills-md{
+    height: 25px;
+    background-size: cover;
+    display: inline-block;
+    width: 25px;
+    background-repeat: no-repeat;
+}
+.js-icon{
+    background-image: url('../img/svg/javascript.svg');
+}
+.quasar{
+    background-image: url('../img/svg/quasar.svg');
+}
+.vue{
+    background-image: url('../img/svg/vue.svg');
+}
+.capacitor{
+    background-image: url('../img/svg/capacitor.svg');
+}
+.sqlite{
+    background-image: url('../img/svg/sqlite.svg');
+}
+.android{
+    background-image: url('../img/svg/android.svg');
+}
+.php{
+    background-image: url('../img/svg/php.svg');
+}
+.laravel{
+    background-image: url('../img/svg/laravel.svg');
+}
+.mysql{
+    background-image: url('../img/svg/mysql.svg');
+}
+.nestjs{
+    background-image: url('../img/svg/nestjs.svg');
+}
+.nodejs{
+    background-image: url('../img/svg/nodejs.svg');
+}
+.posgre{
+    background-image: url('../img/svg/posgre.svg');
+}
+.typescript{
+    background-image: url('../img/svg/typescript.svg');
+}
+.html5{
+    background-image: url('../img/svg/html5.svg');
+}
+.css3{
+    background-image: url('../img/svg/css3.svg');
+}
+.web-global{
+    background-image: url('../img/svg/web-global.svg');
+}
