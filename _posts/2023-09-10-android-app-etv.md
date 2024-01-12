@@ -8,6 +8,7 @@ tag:
 - blog
 - about
 comments: false
+og_image: "assets/img/etv/etv.jpg"
 --- 
     
 {% capture images %}
