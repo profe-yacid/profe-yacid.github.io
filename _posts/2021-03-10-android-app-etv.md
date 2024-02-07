@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UESVALLE ETV Android App"
-date:   2023-09-10
+date:   2021-03-10
 excerpt: "Enfermedades trasmitidas por vectores"
 project: true
 tag:
