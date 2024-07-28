@@ -8,7 +8,7 @@
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
-						<p>{{ site.description }} &#x1F60E;</p>	
+						<p>{{ site.description }} &#x1F60E;</p>
 					</li>
 					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Saber más</span></a></li>
 					{% if site.email %}<li>
@@ -98,7 +98,7 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Proyectos</a></li>
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>Talleres</a></li>
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->

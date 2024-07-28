@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Todos los proyectos
+title: Talleres por área
 excerpt: "A List of Projects"
 comments: false
 ---

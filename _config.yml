@@ -1,14 +1,14 @@
 # Site
-title:              Kevin Agudelo M.
-bio:                Full Stack Web Developer & Android Developer
-description:        "Navegando entre lineas de código..."
+title:              María Yacid Molina B.
+bio:                Docente de primaria
+description:        "Con una chispa de magia en cada lección y un corazón lleno de pasión, transforma la curiosidad en conocimiento y las sonrisas en inspiración"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile.png'
-background:         'assets/img/background.jpg'
+logo:               'assets/img/profile.jpeg'
+background:         'assets/img/background.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://kney28.github.io
+url:                https://profe-yacid.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   kney28
+disqus_shortname:   profe-yacid
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,12 +37,12 @@ disqus_shortname:   kney28
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:             keagmo@gmail.com
+email:             yacidmolina@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:        kney28
+github-url:        profe-yacid
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          kevin-agudelo-molina-184495247
+#linkedin:          kevin-agudelo-molina-184495247
 #xing:              username
 #instagram:          username
 #lastfm:            username
