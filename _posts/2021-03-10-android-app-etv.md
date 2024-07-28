@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UESVALLE ETV Android App"
+title:  "Ciencias Sociales"
 date:   2021-03-10
 excerpt: "Enfermedades trasmitidas por vectores"
 project: true
