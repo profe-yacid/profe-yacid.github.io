@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Talleres por área
+title: GRADOS
 excerpt: "A List of Projects"
 comments: false
 ---
